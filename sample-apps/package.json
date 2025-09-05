@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "@arizeai/openinference-core": "^1.0.5",
+    "@arizeai/openinference-instrumentation-langchain": "^3.4.1",
+    "@aws-crypto/sha256-js": "^5.2.0",
+    "@aws-sdk/client-bedrock-runtime": "^3.872.0",
+    "@aws-sdk/credential-provider-node": "^3.872.0",
+    "@aws-sdk/types": "^3.862.0",
+    "@aws/aws-distro-opentelemetry-node-autoinstrumentation": "^0.7.0",
+    "@langchain/aws": "^0.1.13",
+    "@langchain/community": "^0.3.53",
+    "@langchain/core": "^0.3.72",
+    "@langchain/langgraph": "^0.4.4",
+    "@langchain/tavily": "^0.1.5",
+    "@opentelemetry/api": "^1.9.0",
+    "@opentelemetry/auto-instrumentations-node": "^0.62.1",
+    "@opentelemetry/propagator-aws-xray": "^2.1.0",
+    "@opentelemetry/sdk-node": "^0.203.0",
+    "@opentelemetry/sdk-trace-node": "^2.0.1",
+    "@smithy/eventstream-codec": "^2.2.0",
+    "@smithy/protocol-http": "^3.3.0",
+    "@smithy/signature-v4": "^2.3.0",
+    "@smithy/util-utf8": "^2.3.0",
+    "@traceloop/instrumentation-langchain": "^0.15.0",
+    "@traceloop/node-server-sdk": "^0.15.0",
+    "docker": "^1.0.0",
+    "duck-duck-scrape": "^2.2.7",
+    "process": "^0.11.10",
+    "readline": "^1.3.0",
+    "tsx": "^4.20.4"
+  }
+}
